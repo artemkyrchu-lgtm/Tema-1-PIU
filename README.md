@@ -1,5 +1,5 @@
 #Tema 1 PIU
-Salariu
+###Salariu
 Am facut o aplicatie consola in C#, pentru 1 tema PIU (Salariu)
 ### Am facut :
 1. introducerea datelor - numar_de_ore (int), tarif (double)
